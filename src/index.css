@@ -1,0 +1,13 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+  font-family: 'Poppins', 'Noto Sans TC', sans-serif;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 500;
+  color: #1a1a1a;
+  background: #fefcfa;
+  transition: background 0.6s ease;
+}
+
+button { font-family: inherit; cursor: pointer; border: none; outline: none; }
