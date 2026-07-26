@@ -134,7 +134,7 @@ export default function App() {
     <div className="app" style={{ color: mood.textColor }}>
       <header className="top">
         <a
-          href="https://ai-class-summer.vercel.app/portfolio"
+          href="https://themakerscamp.com/portfolio"
           className="back"
           style={{ color: mood.textColor }}
         >
@@ -192,7 +192,7 @@ export default function App() {
       <footer className="bot">
         <p>這個作品是 AI 做的・你的孩子上完 4 週課,也能做出自己的版本</p>
         <a
-          href="https://ai-class-summer.vercel.app/#register"
+          href="https://themakerscamp.com/#register"
           className="cta"
           style={{ background: mood.textColor, color: mood.gradient.includes("0.22") ? "#fff" : "#fff" }}
         >
